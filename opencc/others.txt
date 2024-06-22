@@ -1,51 +1,51 @@
 ----------格式为: 输入内容<Tab>响应内容1<Space>响应内容2……	----------
 ----------这是注释, 不能有重复的行(包括开头), 所以注释也不能重复.	----------
 ----------月份星期	----------
-一月	一月 Jan. January
-二月	二月 Feb. February
-三月	三月 Mar. March
-四月	四月 Apr. April
-五月	五月 May
-六月	六月 June
-七月	七月 July
-八月	八月 Aug. August
-九月	九月 Sep. Sept. September
-十月	十月 Oct. October
-十一月	十一月 Nov. November
-十二月	十二月 Dec. December
-一月份	一月份 Jan. January
-二月份	二月份 Feb. February
-三月份	三月份 Mar. March
-四月份	四月份 Apr. April
-五月份	五月份 May
-六月份	六月份 June
-七月份	七月份 July
-八月份	八月份 Aug. August
-九月份	九月份 Sep. Sept. September
-十月份	十月份 Oct. October
-十一月份	十一月份 Nov. November
-十二月份	十二月份 Dec. December
-周一	周一 Mon. Monday
-周二	周二 Tue. Tuesday
-周三	周三 Wed. Wednesday
-周四	周四 Thu. Thurs. Thursday
-周五	周五 Fri. Friday
-周六	周六 Sat. Saturday
-周日	周日 Sun. Sunday
-礼拜一	礼拜一 Mon. Monday
-礼拜二	礼拜二 Tue. Tuesday
-礼拜三	礼拜三 Wed. Wednesday
-礼拜四	礼拜四 Thu. Thurs. Thursday
-礼拜五	礼拜五 Fri. Friday
-礼拜六	礼拜六 Sat. Saturday
-礼拜日	礼拜日 Sun. Sunday
-星期一	星期一 Mon. Monday
-星期二	星期二 Tue. Tuesday
-星期三	星期三 Wed. Wednesday
-星期四	星期四 Thu. Thurs. Thursday
-星期五	星期五 Fri. Friday
-星期六	星期六 Sat. Saturday
-星期日	星期日 Sun. Sunday
+# 一月	一月 Jan. January
+# 二月	二月 Feb. February
+# 三月	三月 Mar. March
+# 四月	四月 Apr. April
+# 五月	五月 May
+# 六月	六月 June
+# 七月	七月 July
+# 八月	八月 Aug. August
+# 九月	九月 Sep. Sept. September
+# 十月	十月 Oct. October
+# 十一月	十一月 Nov. November
+# 十二月	十二月 Dec. December
+# 一月份	一月份 Jan. January
+# 二月份	二月份 Feb. February
+# 三月份	三月份 Mar. March
+# 四月份	四月份 Apr. April
+# 五月份	五月份 May
+# 六月份	六月份 June
+# 七月份	七月份 July
+# 八月份	八月份 Aug. August
+# 九月份	九月份 Sep. Sept. September
+# 十月份	十月份 Oct. October
+# 十一月份	十一月份 Nov. November
+# 十二月份	十二月份 Dec. December
+# 周一	周一 Mon. Monday
+# 周二	周二 Tue. Tuesday
+# 周三	周三 Wed. Wednesday
+# 周四	周四 Thu. Thurs. Thursday
+# 周五	周五 Fri. Friday
+# 周六	周六 Sat. Saturday
+# 周日	周日 Sun. Sunday
+# 礼拜一	礼拜一 Mon. Monday
+# 礼拜二	礼拜二 Tue. Tuesday
+# 礼拜三	礼拜三 Wed. Wednesday
+# 礼拜四	礼拜四 Thu. Thurs. Thursday
+# 礼拜五	礼拜五 Fri. Friday
+# 礼拜六	礼拜六 Sat. Saturday
+# 礼拜日	礼拜日 Sun. Sunday
+# 星期一	星期一 Mon. Monday
+# 星期二	星期二 Tue. Tuesday
+# 星期三	星期三 Wed. Wednesday
+# 星期四	星期四 Thu. Thurs. Thursday
+# 星期五	星期五 Fri. Friday
+# 星期六	星期六 Sat. Saturday
+# 星期日	星期日 Sun. Sunday
 ----------偏旁部首	----------
 厂部	厂部 厂 ⺁
 偏厂	偏厂 厂
@@ -213,33 +213,33 @@
 髦字头	髦字头 髟
 石字头	石字头 丆
 ----------生活大爆炸&老友记	----------
-谢耳朵	谢耳朵 Sheldon
-谢尔顿	谢尔顿 Sheldon
-Sheldon	Sheldon 谢尔顿 谢耳朵
-莱纳德	莱纳德 Leonard
-Leonard	Leonard 莱纳德
-佩妮	佩妮 Penny
-Penny	Penny 佩妮
-伯纳黛特	伯纳黛特 Bernadette
-Bernadette	Bernadette 伯纳黛特
-艾米	艾米 Amy
-Amy	Amy 艾米
-霍华德	霍华德 Howard
-Howard	Howard 霍华德
-拉杰什	拉杰什 Rajesh
-Rajesh	Rajesh 拉杰什
-瑞秋	瑞秋 Rachel
-Rachel	Rachel 瑞秋
-莫妮卡	莫妮卡 Monica
-Monica	Monica 莫妮卡
-乔伊	乔伊 Joey
-Joey	Joey 乔伊
-罗斯	罗斯 Ross
-Ross	Ross 罗斯
-钱德勒	钱德勒 Chandler
-Chandler	Chandler 钱德勒
-菲比	菲比 Phoebe
-Phoebe	Phoebe 菲比
+# 谢耳朵	谢耳朵 Sheldon
+# 谢尔顿	谢尔顿 Sheldon
+# Sheldon	Sheldon 谢尔顿 谢耳朵
+# 莱纳德	莱纳德 Leonard
+# Leonard	Leonard 莱纳德
+# 佩妮	佩妮 Penny
+# Penny	Penny 佩妮
+# 伯纳黛特	伯纳黛特 Bernadette
+# Bernadette	Bernadette 伯纳黛特
+# 艾米	艾米 Amy
+# Amy	Amy 艾米
+# 霍华德	霍华德 Howard
+# Howard	Howard 霍华德
+# 拉杰什	拉杰什 Rajesh
+# Rajesh	Rajesh 拉杰什
+# 瑞秋	瑞秋 Rachel
+# Rachel	Rachel 瑞秋
+# 莫妮卡	莫妮卡 Monica
+# Monica	Monica 莫妮卡
+# 乔伊	乔伊 Joey
+# Joey	Joey 乔伊
+# 罗斯	罗斯 Ross
+# Ross	Ross 罗斯
+# 钱德勒	钱德勒 Chandler
+# Chandler	Chandler 钱德勒
+# 菲比	菲比 Phoebe
+# Phoebe	Phoebe 菲比
 ----------键盘符号	----------
 cmd	cmd Command ⌘
 command	command ⌘
@@ -601,259 +601,259 @@ eject	eject ⏏
 男女男	男女男 嬲
 女男女	女男女 嫐
 ----------化学式	----------
-氢	氢 H
-氕	氕 H
-氘	氘 H
-氚	氚 H
-氦	氦 He
-锂	锂 Li
-铍	铍 Be
-硼	硼 B
-碳	碳 C
-氮	氮 N
-氧	氧 O
-氟	氟 F
-氖	氖 Ne
-钠	钠 Na
-镁	镁 Mg
-铝	铝 Al
-硅	硅 Si
-磷	磷 P
-硫	硫 S
-氯	氯 Cl
-氩	氩 Ar
-钾	钾 K
-钙	钙 Ca
-钪	钪 Sc
-钛	钛 Ti
-钒	钒 V
-铬	铬 Cr
-锰	锰 Mn
-铁	铁 Fe
-钴	钴 Co
-镍	镍 Ni
-铜	铜 Cu
-锌	锌 Zn
-镓	镓 Ga
-锗	锗 Ge
-砷	砷 As
-硒	硒 Se
-溴	溴 Br
-氪	氪 Kr
-铷	铷 Rb
-锶	锶 Sr
-钇	钇 Y
-锆	锆 Zr
-铌	铌 Nb
-钼	钼 Mo
-锝	锝 Tc
-钌	钌 Ru
-铑	铑 Rh
-钯	钯 Pd
-银	银 Ag
-镉	镉 Cd
-铟	铟 In
-锡	锡 Sn
-锑	锑 Sb
-碲	碲 Te
-碘	碘 I
-氙	氙 Xe
-铯	铯 Cs
-钡	钡 Ba
-镧	镧 La
-铈	铈 Ce
-镨	镨 Pr
-钕	钕 Nd
-钷	钷 Pm
-钐	钐 Sm
-铕	铕 Eu
-钆	钆 Gd
-铽	铽 Tb
-镝	镝 Dy
-钬	钬 Ho
-铒	铒 Er
-铥	铥 Tm
-镱	镱 Yb
-镥	镥 Lu
-铪	铪 Hf
-钽	钽 Ta
-钨	钨 W
-铼	铼 Re
-锇	锇 Os
-铱	铱 Ir
-铂	铂 Pt
-金	金 Au
-汞	汞 Hg
-铊	铊 Tl
-铅	铅 Pb
-铋	铋 Bi
-钋	钋 Po
-砹	砹 At
-氡	氡 Rn
-钫	钫 Fr
-镭	镭 Ra
-锕	锕 Ac
-钍	钍 Th
-镤	镤 Pa
-铀	铀 U
-镎	镎 Np
-钚	钚 Pu
-镅	镅 Am
-锔	锔 Cm
-锫	锫 Bk
-锎	锎 Cf
-锿	锿 Es
-镄	镄 Fm
-钔	钔 Md
-锘	锘 No
-铹	铹 Lr
-鈩	鈩 Rf
-𨧀	𨧀 Db
-𨭎	𨭎 Sg
-𨨏	𨨏 Bh
-𨭆	𨭆 Hs
-䥑	䥑 Mt
-鐽	鐽 Ds
-錀	錀 Rg
-鎶	鎶 Cn
-鉨	鉨 Nh
-鈇	鈇 Fl
-镆	镆 Mc
-鉝	鉝 Lv
-鿬	鿬 Ts
-鿫	鿫 Og
-水银	水银 Hg
-一氧化二氢	一氧化二氢 H₂O
-酒精	酒精 C₂H₆O
-乙醇	乙醇 C₂H₆O
-高锰酸钾	高锰酸钾 KMnO₄
-石灰石	石灰石 CaCO₃
-石灰水	石灰水 Ca(OH)₂
-胆矾	胆矾 CuSO₄·5H₂O
-二氧化氢	二氧化氢 H₂O₂
-纯碱	纯碱 Na₂CO₃
-熟石灰	熟石灰 Ca(OH)₂
-氨水	氨水 NH₃·H₂O
-磷酸	磷酸 H₃PO₄
-葡萄糖	葡萄糖 C₆H₁₂O₆
-硫化钠	硫化钠 Na₂S
-绿矾	绿矾 FeSO₄·7H₂O
-氯酸钾	氯酸钾 KClO₃
-明矾	明矾 KAl(SO₄)₂·12H₂O
-硝酸铵	硝酸铵 NH₄NO₃
-食盐	食盐 NaCl
-氧化铁	氧化铁 Fe₂O₃
-铜绿	铜绿 Cu₂(OH)₂CO₃
-硫酸铜	硫酸铜 CuSO₄
-烧碱	烧碱 NaOH
-蔗糖	蔗糖 C₁₂H₂₂O₁₁
-氧化铝	氧化铝 Al₂O₃
-干冰	干冰 CO₂
-硫酸钠	硫酸钠 Na₂SO₄
-亚硝酸钠	亚硝酸钠 NaNO₂
-纤维素	纤维素 (C₆H₁₀O₅)n
-铁粉	铁粉 Fe
-三聚氰胺	三聚氰胺 C₃H₆N₆
-丁烷	丁烷 CH₃CH₂CH₂CH₃
-食醋	食醋 CH₃COOH
-醋酸	醋酸 CH₃COOH
-孔雀石	孔雀石 Cu₂(OH)₂CO₃
-草木灰	草木灰 K₂CO₃
-丙烷	丙烷 C₃H₈
-一氧化碳	一氧化碳 CO
-二氧化碳	二氧化碳 CO₂
-五氧化二磷	五氧化二磷 P₂O₅
-氧化钠	氧化钠 Na₂O
-二氧化氮	二氧化氮 NO₂
-二氧化硅	二氧化硅 SiO₂
-二氧化硫	二氧化硫 SO₂
-三氧化硫	三氧化硫 SO₃
-一氧化氮	一氧化氮 NO
-氧化镁	氧化镁 MgO
-氧化铜	氧化铜 CuO
-氧化钡	氧化钡 BaO
-氧化亚铜	氧化亚铜 Cu₂O
-氧化亚铁	氧化亚铁 FeO
-三氧化二铁	三氧化二铁 Fe₂O₃
-四氧化三铁	四氧化三铁 Fe₃O₄
-三氧化二铝	三氧化二铝 Al₂O₃
-三氧化钨	三氧化钨 WO₃
-氧化银	氧化银 Ag₂O
-氧化铅	氧化铅 PbO
-二氧化锰	二氧化锰 MnO₂
-氯化钾	氯化钾 KCl
-氯化钠	氯化钠 NaCl
-氯化镁	氯化镁 MgCl₂
-氯化钙	氯化钙 CaCl₂
-氯化铜	氯化铜 CuCl₂
-氯化锌	氯化锌 ZnCl₂
-氯化钡	氯化钡 BaCl₂
-氯化铝	氯化铝 AlCl₃
-氯化亚铁	氯化亚铁 FeCl₂
-氯化铁	氯化铁 FeCl₃
-氯化银	氯化银 AgCl
-硫酸	硫酸 H₂SO₄
-盐酸	盐酸 HCl
-硝酸	硝酸 HNO₃
-碳酸	碳酸 H₂CO₃
-亚硫酸	亚硫酸 H₂SO₃
-硫化氢	硫化氢 H₂S
-溴化氢	溴化氢 HBr
-硫酸钡	硫酸钡 BaSO₄
-硫酸钙	硫酸钙 CaSO₄
-硫酸钾	硫酸钾 K₂SO₄
-硫酸镁	硫酸镁 MgSO₄
-硫酸亚铁	硫酸亚铁 FeSO₄
-硫酸铁	硫酸铁 Fe₂(SO₄)₃
-硫酸铝	硫酸铝 Al₂(SO₄)₃
-硫酸氢钠	硫酸氢钠 NaHSO₄
-硫酸氢钾	硫酸氢钾 KHSO₄
-亚硫酸钠	亚硫酸钠 NaSO₃
-硝酸钠	硝酸钠 NaNO₃
-硝酸钾	硝酸钾 KNO₃
-硝酸银	硝酸银 AgNO₃
-硝酸镁	硝酸镁 Mg(NO₃)₂
-硝酸铜	硝酸铜 Cu(NO₃)₂
-硝酸钙	硝酸钙 Ca(NO₃)₂
-碳酸钠	碳酸钠 Na₂CO₃
-碳酸钙	碳酸钙 CaCO₃
-碳酸镁	碳酸镁 MgCO₃
-碳酸钾	碳酸钾 K₂CO₃
-氢氧化钠	氢氧化钠 NaOH
-氢氧化钙	氢氧化钙 Ca(OH)₂
-氢氧化钡	氢氧化钡 Ba(OH)₂
-氢氧化镁	氢氧化镁 Mg(OH)₂
-氢氧化铜	氢氧化铜 Cu(OH)₂
-氢氧化钾	氢氧化钾 KOH
-氢氧化铝	氢氧化铝 Al(OH)₃
-氢氧化铁	氢氧化铁 Fe(OH)₃
-氢氧化亚铁	氢氧化亚铁 Fe(OH)₂
-甲烷	甲烷 CH₄
-乙炔	乙炔 C₂H₂
-甲醇	甲醇 CH₃OH
-乙酸	乙酸 CH₃COOH
-碱式碳酸铜	碱式碳酸铜 Cu₂(OH)₂CO₃
-石膏	石膏 CaSO₄·2H₂O
-熟石膏	熟石膏 2CaSO₄·H₂O
-蓝矾	蓝矾 CuSO₄·₅H₂O
-碳酸钠晶体	碳酸钠晶体 Na₂CO₃·10H₂O
-尿素	尿素 CO(NH₂)₂
-硫酸铵	硫酸铵 (NH₄)₂SO₄
-碳酸氢铵	碳酸氢铵 NH₄HCO₃
-磷酸二氢钾	磷酸二氢钾 KH₂PO₄
-氯化氢	氯化氢 HCl
-氢氧化铵	氢氧化铵 NH₄OH
-磷酸二氢钠	磷酸二氢钠 NaH₂PO₄
-硝酸锌	硝酸锌 Zn(NO₃)₂
-过氧化氢	过氧化氢 H₂O₂
-氧化钾	氧化钾 K₂O
-氯化铵	氯化铵 NH₄Cl
-硝酸铅	硝酸铅 Pb(NO₃)₂
-硫化铜	硫化铜 CuS
-碳酸氢钠	碳酸氢钠 NaHCO₃
-硝酸锂	硝酸锂 LiNO₃
-氢氧化锂	氢氧化锂 LiOH
-磷酸钙	磷酸钙 Ca₃(PO₄)₂
+# 氢	氢 H
+# 氕	氕 H
+# 氘	氘 H
+# 氚	氚 H
+# 氦	氦 He
+# 锂	锂 Li
+# 铍	铍 Be
+# 硼	硼 B
+# 碳	碳 C
+# 氮	氮 N
+# 氧	氧 O
+# 氟	氟 F
+# 氖	氖 Ne
+# 钠	钠 Na
+# 镁	镁 Mg
+# 铝	铝 Al
+# 硅	硅 Si
+# 磷	磷 P
+# 硫	硫 S
+# 氯	氯 Cl
+# 氩	氩 Ar
+# 钾	钾 K
+# 钙	钙 Ca
+# 钪	钪 Sc
+# 钛	钛 Ti
+# 钒	钒 V
+# 铬	铬 Cr
+# 锰	锰 Mn
+# 铁	铁 Fe
+# 钴	钴 Co
+# 镍	镍 Ni
+# 铜	铜 Cu
+# 锌	锌 Zn
+# 镓	镓 Ga
+# 锗	锗 Ge
+# 砷	砷 As
+# 硒	硒 Se
+# 溴	溴 Br
+# 氪	氪 Kr
+# 铷	铷 Rb
+# 锶	锶 Sr
+# 钇	钇 Y
+# 锆	锆 Zr
+# 铌	铌 Nb
+# 钼	钼 Mo
+# 锝	锝 Tc
+# 钌	钌 Ru
+# 铑	铑 Rh
+# 钯	钯 Pd
+# 银	银 Ag
+# 镉	镉 Cd
+# 铟	铟 In
+# 锡	锡 Sn
+# 锑	锑 Sb
+# 碲	碲 Te
+# 碘	碘 I
+# 氙	氙 Xe
+# 铯	铯 Cs
+# 钡	钡 Ba
+# 镧	镧 La
+# 铈	铈 Ce
+# 镨	镨 Pr
+# 钕	钕 Nd
+# 钷	钷 Pm
+# 钐	钐 Sm
+# 铕	铕 Eu
+# 钆	钆 Gd
+# 铽	铽 Tb
+# 镝	镝 Dy
+# 钬	钬 Ho
+# 铒	铒 Er
+# 铥	铥 Tm
+# 镱	镱 Yb
+# 镥	镥 Lu
+# 铪	铪 Hf
+# 钽	钽 Ta
+# 钨	钨 W
+# 铼	铼 Re
+# 锇	锇 Os
+# 铱	铱 Ir
+# 铂	铂 Pt
+# 金	金 Au
+# 汞	汞 Hg
+# 铊	铊 Tl
+# 铅	铅 Pb
+# 铋	铋 Bi
+# 钋	钋 Po
+# 砹	砹 At
+# 氡	氡 Rn
+# 钫	钫 Fr
+# 镭	镭 Ra
+# 锕	锕 Ac
+# 钍	钍 Th
+# 镤	镤 Pa
+# 铀	铀 U
+# 镎	镎 Np
+# 钚	钚 Pu
+# 镅	镅 Am
+# 锔	锔 Cm
+# 锫	锫 Bk
+# 锎	锎 Cf
+# 锿	锿 Es
+# 镄	镄 Fm
+# 钔	钔 Md
+# 锘	锘 No
+# 铹	铹 Lr
+# 鈩	鈩 Rf
+# 𨧀	𨧀 Db
+# 𨭎	𨭎 Sg
+# 𨨏	𨨏 Bh
+# 𨭆	𨭆 Hs
+# 䥑	䥑 Mt
+# 鐽	鐽 Ds
+# 錀	錀 Rg
+# 鎶	鎶 Cn
+# 鉨	鉨 Nh
+# 鈇	鈇 Fl
+# 镆	镆 Mc
+# 鉝	鉝 Lv
+# 鿬	鿬 Ts
+# 鿫	鿫 Og
+# 水银	水银 Hg
+# 一氧化二氢	一氧化二氢 H₂O
+# 酒精	酒精 C₂H₆O
+# 乙醇	乙醇 C₂H₆O
+# 高锰酸钾	高锰酸钾 KMnO₄
+# 石灰石	石灰石 CaCO₃
+# 石灰水	石灰水 Ca(OH)₂
+# 胆矾	胆矾 CuSO₄·5H₂O
+# 二氧化氢	二氧化氢 H₂O₂
+# 纯碱	纯碱 Na₂CO₃
+# 熟石灰	熟石灰 Ca(OH)₂
+# 氨水	氨水 NH₃·H₂O
+# 磷酸	磷酸 H₃PO₄
+# 葡萄糖	葡萄糖 C₆H₁₂O₆
+# 硫化钠	硫化钠 Na₂S
+# 绿矾	绿矾 FeSO₄·7H₂O
+# 氯酸钾	氯酸钾 KClO₃
+# 明矾	明矾 KAl(SO₄)₂·12H₂O
+# 硝酸铵	硝酸铵 NH₄NO₃
+# 食盐	食盐 NaCl
+# 氧化铁	氧化铁 Fe₂O₃
+# 铜绿	铜绿 Cu₂(OH)₂CO₃
+# 硫酸铜	硫酸铜 CuSO₄
+# 烧碱	烧碱 NaOH
+# 蔗糖	蔗糖 C₁₂H₂₂O₁₁
+# 氧化铝	氧化铝 Al₂O₃
+# 干冰	干冰 CO₂
+# 硫酸钠	硫酸钠 Na₂SO₄
+# 亚硝酸钠	亚硝酸钠 NaNO₂
+# 纤维素	纤维素 (C₆H₁₀O₅)n
+# 铁粉	铁粉 Fe
+# 三聚氰胺	三聚氰胺 C₃H₆N₆
+# 丁烷	丁烷 CH₃CH₂CH₂CH₃
+# 食醋	食醋 CH₃COOH
+# 醋酸	醋酸 CH₃COOH
+# 孔雀石	孔雀石 Cu₂(OH)₂CO₃
+# 草木灰	草木灰 K₂CO₃
+# 丙烷	丙烷 C₃H₈
+# 一氧化碳	一氧化碳 CO
+# 二氧化碳	二氧化碳 CO₂
+# 五氧化二磷	五氧化二磷 P₂O₅
+# 氧化钠	氧化钠 Na₂O
+# 二氧化氮	二氧化氮 NO₂
+# 二氧化硅	二氧化硅 SiO₂
+# 二氧化硫	二氧化硫 SO₂
+# 三氧化硫	三氧化硫 SO₃
+# 一氧化氮	一氧化氮 NO
+# 氧化镁	氧化镁 MgO
+# 氧化铜	氧化铜 CuO
+# 氧化钡	氧化钡 BaO
+# 氧化亚铜	氧化亚铜 Cu₂O
+# 氧化亚铁	氧化亚铁 FeO
+# 三氧化二铁	三氧化二铁 Fe₂O₃
+# 四氧化三铁	四氧化三铁 Fe₃O₄
+# 三氧化二铝	三氧化二铝 Al₂O₃
+# 三氧化钨	三氧化钨 WO₃
+# 氧化银	氧化银 Ag₂O
+# 氧化铅	氧化铅 PbO
+# 二氧化锰	二氧化锰 MnO₂
+# 氯化钾	氯化钾 KCl
+# 氯化钠	氯化钠 NaCl
+# 氯化镁	氯化镁 MgCl₂
+# 氯化钙	氯化钙 CaCl₂
+# 氯化铜	氯化铜 CuCl₂
+# 氯化锌	氯化锌 ZnCl₂
+# 氯化钡	氯化钡 BaCl₂
+# 氯化铝	氯化铝 AlCl₃
+# 氯化亚铁	氯化亚铁 FeCl₂
+# 氯化铁	氯化铁 FeCl₃
+# 氯化银	氯化银 AgCl
+# 硫酸	硫酸 H₂SO₄
+# 盐酸	盐酸 HCl
+# 硝酸	硝酸 HNO₃
+# 碳酸	碳酸 H₂CO₃
+# 亚硫酸	亚硫酸 H₂SO₃
+# 硫化氢	硫化氢 H₂S
+# 溴化氢	溴化氢 HBr
+# 硫酸钡	硫酸钡 BaSO₄
+# 硫酸钙	硫酸钙 CaSO₄
+# 硫酸钾	硫酸钾 K₂SO₄
+# 硫酸镁	硫酸镁 MgSO₄
+# 硫酸亚铁	硫酸亚铁 FeSO₄
+# 硫酸铁	硫酸铁 Fe₂(SO₄)₃
+# 硫酸铝	硫酸铝 Al₂(SO₄)₃
+# 硫酸氢钠	硫酸氢钠 NaHSO₄
+# 硫酸氢钾	硫酸氢钾 KHSO₄
+# 亚硫酸钠	亚硫酸钠 NaSO₃
+# 硝酸钠	硝酸钠 NaNO₃
+# 硝酸钾	硝酸钾 KNO₃
+# 硝酸银	硝酸银 AgNO₃
+# 硝酸镁	硝酸镁 Mg(NO₃)₂
+# 硝酸铜	硝酸铜 Cu(NO₃)₂
+# 硝酸钙	硝酸钙 Ca(NO₃)₂
+# 碳酸钠	碳酸钠 Na₂CO₃
+# 碳酸钙	碳酸钙 CaCO₃
+# 碳酸镁	碳酸镁 MgCO₃
+# 碳酸钾	碳酸钾 K₂CO₃
+# 氢氧化钠	氢氧化钠 NaOH
+# 氢氧化钙	氢氧化钙 Ca(OH)₂
+# 氢氧化钡	氢氧化钡 Ba(OH)₂
+# 氢氧化镁	氢氧化镁 Mg(OH)₂
+# 氢氧化铜	氢氧化铜 Cu(OH)₂
+# 氢氧化钾	氢氧化钾 KOH
+# 氢氧化铝	氢氧化铝 Al(OH)₃
+# 氢氧化铁	氢氧化铁 Fe(OH)₃
+# 氢氧化亚铁	氢氧化亚铁 Fe(OH)₂
+# 甲烷	甲烷 CH₄
+# 乙炔	乙炔 C₂H₂
+# 甲醇	甲醇 CH₃OH
+# 乙酸	乙酸 CH₃COOH
+# 碱式碳酸铜	碱式碳酸铜 Cu₂(OH)₂CO₃
+# 石膏	石膏 CaSO₄·2H₂O
+# 熟石膏	熟石膏 2CaSO₄·H₂O
+# 蓝矾	蓝矾 CuSO₄·₅H₂O
+# 碳酸钠晶体	碳酸钠晶体 Na₂CO₃·10H₂O
+# 尿素	尿素 CO(NH₂)₂
+# 硫酸铵	硫酸铵 (NH₄)₂SO₄
+# 碳酸氢铵	碳酸氢铵 NH₄HCO₃
+# 磷酸二氢钾	磷酸二氢钾 KH₂PO₄
+# 氯化氢	氯化氢 HCl
+# 氢氧化铵	氢氧化铵 NH₄OH
+# 磷酸二氢钠	磷酸二氢钠 NaH₂PO₄
+# 硝酸锌	硝酸锌 Zn(NO₃)₂
+# 过氧化氢	过氧化氢 H₂O₂
+# 氧化钾	氧化钾 K₂O
+# 氯化铵	氯化铵 NH₄Cl
+# 硝酸铅	硝酸铅 Pb(NO₃)₂
+# 硫化铜	硫化铜 CuS
+# 碳酸氢钠	碳酸氢钠 NaHCO₃
+# 硝酸锂	硝酸锂 LiNO₃
+# 氢氧化锂	氢氧化锂 LiOH
+# 磷酸钙	磷酸钙 Ca₃(PO₄)₂
 ----------emoji集合	----------
 V动物	V动物 🐶 🐮 🐵 🙈 🙉 🙊 🐒 🐔 🐴 🐷 🐽 🐭 🦐 🦀 🐢 🐱 🐹 🐰 🐻 🐼 🐨 🐧 🐦 🐤 🐣 🐥 🐯 🦁 🐸 🐙 🦆 🦅 🦉 🦇 🐺 🐗 🦄 🐝 🐛 🦋 🐌 🐞 🐜 🕷 🦂 🐍 🦎 🦑 🐠 🐟 🐡 🐬 🐳 🐊 🐆 🐅 🐃 🐂 🐄 🐪 🐫 🐘 🦏 🦍 🐐 🐏 🐑 🐎 🐖 🐀 🐁 🐓 🦃 🕊 🐕 🐩 🐈 🐇 🐿 🦆 🦅 🦉 🦇 🐺 🐗 🦄 🐴 🐝 🐛 🐞 🪲 🦟 🐚 🐌 🦋 🐜  🐢 🐍 🦎 🦂 🦀 🦑 🐙 🦐 🦞 🦪 🐠 🐟 🐡  🐬 🦈 🐋 🐊 🐆 🐅 🐃 🐂 🐄 🦬 🦌 🐪 🐫 🐘 🦏 🦍 🦧 🦣 🐎 🐖 🐐 🐏 🐑 🐕 🐩 🐈  🐇 🐁 🐀 🐿️ 🐉 🐒 🦙 🦛  🦖 🦕 🦡 🦝 🦨 🦫 🦦 🦭 🦥 🐓 🦃  🦩  🦢 🦜 🦤 🦚 🐦‍⬛
 V国旗	V国旗 🏳️ 🏴 🏴‍☠️ 🏁 🚩 🏳️‍🌈 🏳️‍⚧️ 🇺🇳 🇦🇺 🇨🇦 🇨🇳 🇩🇪 🇭🇰 🇯🇵 🇳🇿 🇹🇼 🇺🇸
@@ -997,20 +997,20 @@ V黄种人	V黄种人 🧓🏻 🧑🏻 🧒🏻 👶🏻
 V黑人	V黑人 🧓🏿 🧑🏿 🧒🏿 👶🏿
 V点心	V点心 🍮 🍩 🍪 🍧 🍨 🍦 🍰 🧁 🧇 🧆
 ----------希腊字母	----------
-阿尔法	阿尔法 alpha α Α
-贝塔	贝塔 beta β Β
-伽马	伽马 gamma γ Γ
-德尔塔	德尔塔 delta δ Δ
-艾普西隆	艾普西隆 epsilon ε Ε
-泽塔	泽塔 zeta ζ Ζ
-伊塔	伊塔 eta η Η
-西塔	西塔 theta θ Θ
-约塔	约塔 iota ι Ι
-卡帕	卡帕 kappa κ Κ
-拉姆达	拉姆达 lambda λ Λ
-奥密克戎	奥密克戎 omicron ο Ο
-西格马	西格马 sigma σ/ς Σ
-奥米伽	奥米伽 omega ω Ω
+# 阿尔法	阿尔法 alpha α Α
+# 贝塔	贝塔 beta β Β
+# 伽马	伽马 gamma γ Γ
+# 德尔塔	德尔塔 delta δ Δ
+# 艾普西隆	艾普西隆 epsilon ε Ε
+# 泽塔	泽塔 zeta ζ Ζ
+# 伊塔	伊塔 eta η Η
+# 西塔	西塔 theta θ Θ
+# 约塔	约塔 iota ι Ι
+# 卡帕	卡帕 kappa κ Κ
+# 拉姆达	拉姆达 lambda λ Λ
+# 奥密克戎	奥密克戎 omicron ο Ο
+# 西格马	西格马 sigma σ/ς Σ
+# 奥米伽	奥米伽 omega ω Ω
 alpha	alpha α Α
 beta	beta β Β
 gamma	gamma γ Γ
@@ -1035,10 +1035,10 @@ psi	psi ψ Ψ
 omega	omega ω Ω
 ----------其他	----------
 Rime	Rime 㞢
-中州韵	中州韵 Rime
-鼠须管	鼠须管 Squirrel
-小狼毫	小狼毫 Weasel
-仓输入法	仓输入法 Hamster
+# 中州韵	中州韵 Rime
+# 鼠须管	鼠须管 Squirrel
+# 小狼毫	小狼毫 Weasel
+# 仓输入法	仓输入法 Hamster
 平方	平方 ²
 平方厘米	平方厘米 cm²
 平方分米	平方分米 dm²
@@ -1086,15 +1086,15 @@ apple	apple 
 根号	根号 √
 正负号	正负号 ±
 正负	正负 ±
-百分号	百分号 %
-百分之	百分之 %
+# 百分号	百分号 %
+# 百分之	百分之 %
 千分号	千分号 ‰
 千分之	千分之 ‰
 万分号	万分号 ‱
 万分之	万分之 ‱
-百分百	百分百 100%
-百分之百	百分之百 100%
-百分之一百	百分之一百 100%
+# 百分百	百分百 100%
+# 百分之百	百分之百 100%
+# 百分之一百	百分之一百 100%
 纳粹	纳粹 卐
 无穷大	无穷大 ∞
 无穷大符号	无穷大符号 ∞
@@ -1102,36 +1102,36 @@ apple	apple 
 负无穷	负无穷 -∞
 圆周率	圆周率 π
 进击的巨人	进击的巨人 進撃の巨人
-Geralt	Geralt 杰洛特
-杰洛特	杰洛特 Geralt
-灭霸	灭霸 Thanos
-Thanos	Thanos 灭霸
-皮卡丘	皮卡丘 Pikachu
-Pikachu	Pikachu 皮卡丘
-Pokemon	Pokemon Pokémon
-恭喜发财	恭喜发财 恭喜發財
+# Geralt	Geralt 杰洛特
+# 杰洛特	杰洛特 Geralt
+# 灭霸	灭霸 Thanos
+# Thanos	Thanos 灭霸
+# 皮卡丘	皮卡丘 Pikachu
+# Pikachu	Pikachu 皮卡丘
+# Pokemon	Pokemon Pokémon
+# 恭喜发财	恭喜发财 恭喜發財
 人上人	人上人 仌
 二百	二百 皕
 两百	两百 皕
 双喜	双喜 囍
-双喜临门	双喜临门 囍
-喜上加喜	喜上加喜 囍
-英寸	英寸 吋
-星巴克	星巴克 Starbucks
-毫秒	毫秒 ms millisecond
-微秒	微秒 μs microsecond
-纳秒	纳秒 ns nanosecond
-皮秒	皮秒 ps picosecond
-飞秒	飞秒 fs femtosecond
-阿秒	阿秒 as attosecond
-毫米	毫米 mm millimeter
-微米	微米 μm micrometer
-纳米	纳米 nm nanometer
+# 双喜临门	双喜临门 囍
+# 喜上加喜	喜上加喜 囍
+# 英寸	英寸 吋
+# 星巴克	星巴克 Starbucks
+# 毫秒	毫秒 ms millisecond
+# 微秒	微秒 μs microsecond
+# 纳秒	纳秒 ns nanosecond
+# 皮秒	皮秒 ps picosecond
+# 飞秒	飞秒 fs femtosecond
+# 阿秒	阿秒 as attosecond
+# 毫米	毫米 mm millimeter
+# 微米	微米 μm micrometer
+# 纳米	纳米 nm nanometer
 掀桌子	掀桌子 (╯'-')╯︵┻━┻ (╯°Д°)╯︵┻━┻
 摆桌子	摆桌子 ┬─┬ノ('-'ノ)
-车马炮	车马炮 車马炮
-出车	出车 出車
-安卓	安卓 Android
+# 车马炮	车马炮 車马炮
+# 出车	出车 出車
+# 安卓	安卓 Android
 阿尔法粒子	阿尔法粒子 α粒子
 阿尔法射线	阿尔法射线 α射线
 贝塔粒子	贝塔粒子 β粒子
@@ -1165,8 +1165,8 @@ Pokemon	Pokemon Pokémon
 八分之七	八分之七 ⅞
 九分之一	九分之一 ⅑
 十分之一	十分之一 ⅒
-Twitter	Twitter 𝕏
+# Twitter	Twitter 𝕏
 推特	推特 𝕏
 又又又又	又又又又 又双叒叕
-橡胶果实	橡胶果实 幻兽种·人人果实·尼卡（太阳神）形态
+# 橡胶果实	橡胶果实 幻兽种·人人果实·尼卡（太阳神）形态
 直角引号	直角引号 「」 『』

@@ -39,7 +39,7 @@ patch:
     translators/+:
     filters/+:
   # 注释下行, 以取消中英混合输出上屏时自动添加的前导空格
-  'engine/processors/@after 1': lua_processor@*word_append_space*processor
+  # 'engine/processors/@after 1': lua_processor@*word_append_space*processor
   # 注释下行, 以取消中英混合的候选词条里自动添加的空格
   'engine/filters/@before last': lua_filter@*word_append_space*filter
   # 'engine/processors/@before 0': predictor
@@ -115,14 +115,14 @@ patch:
       # - derive/[[]//                          # 取消注释，直接辅码
 
       ## 模糊音:
-      - derive/^([jqxy])v/$1u/
-      - derive/^([jqxy])u/$1v/
-      - derive/^([bnpy])b/$1k/                  # in => ing
-      - derive/^z([rwyz])/v$1/                  # z => zh
-      - derive/^c([rvyz])/i$1/                  # c => ch
-      - derive/^s([rsz])/u$1/                   # s => sh
-      - derive/^u([hy])/s$1/                    # u[hy] => s[hy]
-      - derive/^(i)g/$1f/                       # c[h]eng => c[h]en
+      # - derive/^([jqxy])v/$1u/
+      # - derive/^([jqxy])u/$1v/
+      # - derive/^([bnpy])b/$1k/                # in => ing
+      # - derive/^z([rwyz])/v$1/                # z => zh
+      # - derive/^c([rvyz])/i$1/                # c => ch
+      # - derive/^s([rsz])/u$1/                 # s => sh
+      # - derive/^u([hy])/s$1/                  # u[hy] => s[hy]
+      # - derive/^(i)g/$1f/                     # c[h]eng => c[h]en
       # - derive/^l(.*)$/n$1/                   # l => n
       # - derive/^n(.*)$/l$1/                   # n => l
       # - derive/^v(.*)/z$1/                    # zh => z

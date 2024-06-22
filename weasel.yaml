@@ -15,13 +15,13 @@ app_options:
   firefox.exe:
     inline_preedit: true # 行内显示预编辑区：规避 <https://github.com/rime/weasel/issues/946>
   code.exe:
-    ascii_mode: true
+    ascii_mode: false
   conhost.exe:
-    ascii_mode: true
+    ascii_mode: false
   mintty.exe:
-    ascii_mode: true
+    ascii_mode: false
   pycharm64.exe:
-    ascii_mode: true
+    ascii_mode: false
   wechat.exe:
     wechat_flag: true
 
@@ -34,7 +34,7 @@ global_ascii: false                        # 切换为 ascii 模式时，是否�
 # 字体；候选项、候选窗口的行为、布局及样式
 style:
   color_scheme: mint_light_blue             # 默认配色方案
-  color_scheme_dark: mint_dark_blue         # 深色模式下，Weasel 的配色方案，Windows 10 1809+ 可用
+  color_scheme_dark: lost_temple            # 深色模式下，Weasel 的配色方案，Windows 10 1809+ 可用
 
   # 全局字体
   # 格式：字体1:起始码位:结束码位:字重:字形,字体2……，字体会依次 fallback

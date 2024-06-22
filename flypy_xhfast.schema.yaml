@@ -12,9 +12,9 @@ schema:
     小鹤双拼+辅助码
     github.com:boomker/rime-fast-xhup
   dependencies:
-    - easy_en           # 英文输入方案
+    # - easy_en         # 英文输入方案
     - melt_eng          # 中英混合,副翻译器
-    - ecdict_reverse    # 英文反查中文释义
+    # - ecdict_reverse  # 英文反查中文释义
     - flypy_radical     # 部件组字
     - flypy_phrase      # 自动上屏短语
 
@@ -38,7 +38,7 @@ engine:
     - lua_processor@*pin_word*processor
     - lua_processor@*launcher*processor
     - lua_processor@*select_char
-    - lua_processor@*pair_symbols
+    # - lua_processor@*pair_symbols
     - lua_processor@*idiom_abbr_expand
     - lua_processor@*flypy_switcher*processor
     - lua_processor@*cold_word_drop*processor
