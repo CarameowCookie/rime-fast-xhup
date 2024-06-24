@@ -95,21 +95,21 @@
 什么情况	umfk
 什么意思	umys
 什么玩意儿	umwy
-什么玩意儿!	wtf	2
-What the fuck!	wtf	1
-WTF	wtf	3
-Rime	rime	3
-开源输入法引擎	rime	2
-http://rime.im	rime	1
-正在开会，一会儿回复你	meet
+# 什么玩意儿!	wtf	2
+# What the fuck!	wtf	1
+# WTF	wtf	3
+# Rime	rime	3
+# 开源输入法引擎	rime	2
+# http://rime.im	rime	1
+# 正在开会，一会儿回复你	meet
 换行词条<br>第二行	hhctest
 # 其他换行词条<br>我是下一行	hhct
 
 ## 简单单词
-Hugo	hugo
-TODO	todo
-DevOps	devo	2
-Django	djan	2
-Deploy	depl	2
-NeoVim	nvim	1
-Kubernetes	kube	1
+# Hugo	hugo
+# TODO	todo
+# DevOps	devo	2
+# Django	djan	2
+# Deploy	depl	2
+# NeoVim	nvim	1
+# Kubernetes	kube	1
